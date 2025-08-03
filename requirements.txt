@@ -1,0 +1,62 @@
+# Core dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# PDF Processing
+PyPDF2>=3.0.1
+
+# LangChain and Vector Databases
+langchain>=0.1.0
+langchain-community>=0.0.10
+faiss-cpu>=1.7.4
+
+# OpenAI and Embeddings
+openai>=1.0.0
+langchain-openai>=0.0.5
+
+# Azure Services
+azure-ai-documentintelligence>=1.0.0
+azure-core>=1.29.0
+azure-search-documents>=11.4.0
+
+# Google Cloud (Optional)
+google-cloud-documentai>=2.20.0
+google-api-core>=2.11.0
+google-auth>=2.17.0
+google-oauth2-tool>=0.0.3
+
+# Pinecone (Optional)
+pinecone-client>=2.2.4
+
+# OCR
+easyocr>=1.7.0
+
+# UI Components
+streamlit-feedback>=0.1.3
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# HTTP and Requests
+requests>=2.31.0
+urllib3>=2.0.0
+
+# JSON and File Handling
+jsonschema>=4.19.0
+
+# Logging and Utilities
+colorama>=0.4.6
+tqdm>=4.66.0
+
+# Security and Environment
+cryptography>=41.0.0
+certifi>=2023.7.22
+
+# Optional: Additional OCR engines
+# pytesseract>=0.3.10  # Uncomment if using Tesseract OCR
+# pdf2image>=1.16.3    # Uncomment if converting PDF to images for OCR
+
+# Optional: Advanced text processing
+# spacy>=3.7.0         # Uncomment for advanced NLP
+# transformers>=4.30.0 # Uncomment for additional language models
