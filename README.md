@@ -189,7 +189,7 @@ PINECONE_APIKEY=your_pinecone_api_key
 
 ### Running the Application
 ```bash
-streamlit run main.py
+streamlit run filename.py
 ```
 
 ## 📱 Features
