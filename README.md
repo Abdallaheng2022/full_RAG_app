@@ -1,7 +1,7 @@
 # Medical Assistant Unoifficial as an Experiment - Document Processing & Vector Database System
 
 A Streamlit-based medical document analysis application that leverages Azure Document Intelligence, vector databases, and LLMs to extract, process, and query medical documents with intelligent chunking strategies.
-
+[Direct Link](https://drive.google.com/file/d/1SEcDyDynQqssZ6ZZj-SeWAfoZ2x9Nu8y/view?usp=sharing)
 ## 🎯 Project Overview
 
 This application processes medical documents or general document (PDFs, images) using Azure Document Intelligence for OCR and layout analysis, then stores the extracted content in vector databases for semantic search and retrieval. The system is designed to handle complex medical documents like clinical records, prescriptions, and medical reports.
